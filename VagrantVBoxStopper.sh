@@ -13,7 +13,7 @@ echo
 
 
 # User prompt
-echo -e "\nWhich action on all VirtualBox machines?\n"
+echo -e "\nWhich action on all Vagrant/VirtualBox machines?\n"
 echo -e "\t1) \e[32msavestate (suspend)\e[0m"
 echo -e "\t2) \e[32mshutdown (soft)\e[0m"
 echo -e "\t3) \e[32mshutdown (force)\e[0m"
