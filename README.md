@@ -7,7 +7,7 @@ RUNNING MACHINES:
 "my_vm_1"
 "my_vm_2"
 
-Which action on all VirtualBox machines?
+Which action on all Vagrant/VirtualBox machines?
 
     1) savestate (suspend)
     2) shutdown (soft)
